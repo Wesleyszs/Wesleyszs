@@ -25,10 +25,14 @@
 </div> 
  
 ### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-<img src="https://img.icons8.com/color/48/000000/python.png" height="25">
+
+![JavaScript]<img src="https://icons8.com.br/icon/3BTBsJs5myRy/css3" height="25">
+![python]<img src="https://img.icons8.com/color/48/000000/python.png" height="25">
+![C]<img src="https://icons8.com.br/icon/40670/c-programming" height="25">
+![html5]<img src="https://icons8.com.br/icon/EAUyKy3IwmqM/html-5" height="25">
+![css]<img src="https://icons8.com.br/icon/3BTBsJs5myRy/css3" height="25">
+
+
 
 
 
