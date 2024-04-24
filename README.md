@@ -1,4 +1,4 @@
-### olá eu sou Wesley Souza 
+![image](https://github.com/Wesleyszs/Wesleyszs/assets/122413661/e35fdcff-a786-44d2-9a26-0a34d12b9ae6)### olá eu sou Wesley Souza 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wesley_souz4?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585992226176)
@@ -28,8 +28,9 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python]((https://icons8.com.br/icon/13441/python));
+![Python]((https://icons8.com.br/icon/13441/python))&nbsp;
 ![Python](((https://icons8.com.br/icon/l75OEUJkPAk4/python))); 
+
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
