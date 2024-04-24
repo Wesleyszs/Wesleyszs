@@ -1,4 +1,4 @@
-![image](https://github.com/Wesleyszs/Wesleyszs/assets/122413661/e35fdcff-a786-44d2-9a26-0a34d12b9ae6)### olá eu sou Wesley Souza 
+<img src="https://avatars.githubusercontent.com/u/122413661?s=400&u=da859ec7c26ae0b08d583b7f44735f1416ee0721&v=4" alt="Wesley Souza" width="200"> ### olá eu sou Wesley Souza 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wesley_souz4?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585992226176)
