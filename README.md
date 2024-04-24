@@ -48,7 +48,8 @@
 
   
 ### Studying in this moment:
-![Java](https://img.icons8.com/color/48/000000/java.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
 
 <div align="center">
   <br>
