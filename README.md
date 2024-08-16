@@ -29,7 +29,7 @@
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![MYSQL](https://img.icons8.com/color/48/000000/mysql.png)
-![Power Bi](https://github.com/user-attachments/assets/06d4c501-f463-4f04-8caa-857a20db0d92)
+<img src="https://github.com/user-attachments/assets/06d4c501-f463-4f04-8caa-857a20db0d92" alt="Power Bi" width="48"/>
 
 
 
