@@ -1,6 +1,4 @@
 
-Claro! Vamos criar um README no mesmo estilo que o seu atual, mas com algumas mudanças gráficas e visuais para deixá-lo com uma aparência nova. Aqui está uma proposta de como pode ficar:
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=120&section=header&text=Wesley%20Souza&fontColor=FFD700&fontSize=50&fontAlign=50"/>
 
 <div align="center">
