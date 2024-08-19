@@ -26,7 +26,7 @@
 📈 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wesleyszs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyszs&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas"/>
+
 </div>
 🏆 Conquistas
 <div align="center">
