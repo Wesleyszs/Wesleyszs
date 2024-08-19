@@ -64,6 +64,9 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wesleyszs}/count.svg" /></p> 
   <br>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wesleyszs&color=brightgreen" alt="Profile Views Counter" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
