@@ -56,6 +56,8 @@
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesleyszs&theme=radical&hide_border=true)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wesleyszs)
+
 <div align="center">
   <br>
   <p align="centre"><b>Visitors Count</b></p>  
