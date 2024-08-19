@@ -57,6 +57,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesleyszs&theme=radical&hide_border=true)
 
+<a href="https://app.daily.dev/Wesleyszs"><img src="https://api.daily.dev/devcards/your-unique-username.svg" width="400" alt="Wesley Souza's Dev Card"/></a>
 
 <div align="center">
   <br>
