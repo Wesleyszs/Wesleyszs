@@ -58,8 +58,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesleyszs&theme=radical&hide_border=true)
 
 
-![GitHub Skyline](https://your-image-link-here)
-![Metrics](https://github.com/Wesleyszs/Wesleyszs/blob/main/github-metrics.svg)
+
 
 <div align="center">
   <br>
