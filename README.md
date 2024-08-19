@@ -2,6 +2,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wesley_souz4?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585992226176)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-souza-2480351a1/)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesleyszs&theme=radical&hide_border=true)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
