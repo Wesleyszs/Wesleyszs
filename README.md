@@ -35,7 +35,7 @@
 📊 Gráficos de Contribuição e Linguagens
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wesleyszs&theme=dracula" alt="Detalhes do Perfil"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wesleyszs&theme=dracula" alt="Repositórios por Linguagem"/>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wesleyszs&theme=dracula" alt="Commits por Linguagem"/>
 </div>
 🌐 Conecte-se Comigo
